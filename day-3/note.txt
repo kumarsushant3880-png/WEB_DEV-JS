@@ -1,0 +1,21 @@
+// NPM UNDERSTANDING
+NPM -> node package manager
+node.js core mein jo installed ata h wo kehlata hai module.
+npm se download krte hai vo hota hai package.
+
+
+// installin and uninstalling anything basics & advanced.
+install -> npm i (package name) 
+uninstall -> npm uninstall (package name)
+
+
+// installing particular versions
+install -> npm i (package name)@version
+
+// understanding node modules
+
+// dependencies - package and package ki dependencies
+
+// devdependencies 
+ aise package jo sirf delopment mai kaam aaynge...
+par jab app ban jayga or develpo ho jayga tb hum in package ko use nahi kr rhe honge
